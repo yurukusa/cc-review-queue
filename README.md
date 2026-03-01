@@ -68,7 +68,7 @@ The `activity-logger.sh` hook (from `claude-code-hooks`) marks edits as `needs_r
 
 ## Part of cc-toolkit
 
-One of 35 free tools for understanding your Claude Code usage.
+One of 36 free tools for understanding your Claude Code usage.
 → [yurukusa.github.io/cc-toolkit](https://yurukusa.github.io/cc-toolkit/)
 
 ## License
